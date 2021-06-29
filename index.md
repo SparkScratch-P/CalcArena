@@ -6,7 +6,7 @@
 
 # The Awesome Collection of Calculators : 
 
-## Quadratic Polynomial Calculator -
+## [Quadratic Polynomial Calculator -](https://sparkscratch-p.github.io/CalcArena/quadratic-polynomials/)
 
  This is an exciting two face calculator for Evaluating sums of the **Quadratic Polynomials**. This has two calculators in it : One that derives the zeros, or *roots of the polynomial* (quadratic only) and the other, can make out *the polynomial* with just the values of zeros given!!! The given polynomial must be quadratic , i.e, *the numeric coefficient of x^2 must be non-zero.*
  
