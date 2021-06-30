@@ -21,5 +21,9 @@
 <iframe src="https://sparkscratch-p.github.io/CalcArena/rotation-wheel-speed/" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ---
- ## We'd soon add more of innovative idea to make new calculators and ad it to our collection. If you want to contribute with ideas or algorhythms, contact us via issues.
+## We'd soon add more of innovative idea to make new calculators and ad it to our collection. If you want to contribute with ideas or algorhythms, contact us via issues.
  
+
+<script type="text/javascript" id="zsiqchat">
+         var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "9f58ca48bd355f2bf98e970c690a6c2244ea6b827a33c8768de4a6a1f5dfe1b8", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);
+</script>
